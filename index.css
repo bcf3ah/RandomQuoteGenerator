@@ -1,0 +1,28 @@
+body {
+  padding-top: 30px;
+  background: #7474BF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #348AC7, #7474BF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #348AC7, #7474BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1, h4 {
+  font-family: 'Baloo', cursive;
+}
+
+#second {
+  margin-top: 30px;
+}
+
+.card-link {
+  cursor: pointer;
+}
+
+.buttons {
+  display: inline-block;
+  margin: 20px 20px 0 20px;
+}
+
+i {
+  color: #0275d8;
+}
